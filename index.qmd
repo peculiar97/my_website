@@ -1,0 +1,29 @@
+---
+title: "Mahdi Eskandarian Boroujeni"
+
+about:
+  template: jolla
+  image: MEB.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mahdi-eskandarian-93a71639/
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=2rGcVjkAAAAJ&view_op=list_works&sortby=pubdate
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Mahdi-Eskandarian-Boroujeni
+    - icon: envelope
+      text: Email
+      href: mailto:mahdesk@amu.edu.pl
+---
+
+I am experienced in conducting biological experiments and utilizing computational techniques to analyze the data generated. My ability to bridge the gap between laboratory work and data analysis allows me to effectively draw meaningful conclusions from my research findings.
+
+
+
+
+
+
+
+
+

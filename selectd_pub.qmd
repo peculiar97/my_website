@@ -1,0 +1,32 @@
+---
+title: ""
+toc: false
+---
+
+# Selected Publications
+
+-   **Eskandarian Boroujeni, M.**, Sekrecka, A., Antonczyk, A., Hasani, S., Sekrecki M., Nowicka, H., Lopacinska, N., Olya, A., Kluzek, K., Wesoly, J. and Bluyssen HAR (2022) [Dysregulated Interferon Response and Immune Hyperactivation in Severe COVID-19: Targeting STATs as a Novel Therapeutic Strategy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9156796/). *Frontiers in Immunology*, 13:888897, DOI: 10.3389/fimmu.2022.888897
+
+-   Bayat, A.H., Azimi, H., Hassani Moghaddam, M., Ebrahimi, V., Fathi, M., Vakili, K., Mahmoudiasl, G.R., Forouzesh, M., **Eskandarian Boroujeni, M.**, Nariman, Z. and Abbaszadeh, H.A., 2022. [COVID-19 causes neuronal degeneration and reduces neurogenesis in human hippocampus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9310365/). *Apoptosis*, pp.1-17, DOI: 10.1007/s10495-022-01754-9
+
+-   **Eskandarian Boroujeni, M.\***, Simani, L.**\***, Bluyssen, H.A., Samadikhah, H.R., Zamanlui Benisi, S., Hassani, S., Akbari Dilmaghani, N., Fathi, M., Vakili, K., Mahmoudiasl, G.R. and Abbaszadeh, H.A., 2021. [Inflammatory Response Leads to Neuronal Death in Human Post-Mortem Cerebral Cortex in Patients with COVID-19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8204755/). *ACS Chemical Neuroscience*, DOI: 10.1021/acschemneuro.1c00111 **\*** Contributed equally to this work
+
+-   Alizadeh, R.**\***, **Eskandarian Boroujeni, M.\***, Kamrava, S.K., Tehrani, A.M., Bagher, Z., Heidari, F., Bluyssen, H.A. and Farhadi, M., 2021. [From Transcriptome to Behavior: Intranasal Injection of Late Passage Human Olfactory Stem Cells Displays Potential in a Rat Model of Parkinson's disease](https://pubs.acs.org/doi/10.1021/acschemneuro.1c00225). *ACS Chemical Neuroscience*, DOI: 10.1021/acschemneuro.1c00225 **\*** Contributed equally to this work
+
+-   Simorgh, S., Bagher, Z., Farhadi, M., Kamrava, S.K., **Eskandarian Boroujeni, M.**, Namjoo, Z., Hour, F.Q., Moradi, S. and Alizadeh, R., 2021. [Magnetic Targeting of Human Olfactory Mucosa Stem Cells Following Intranasal Administration: a Novel Approach to Parkinson's disease Treatment](https://link.springer.com/article/10.1007/s12035-021-02392-z). *Molecular Neurobiology*, pp.1-13, DOI: 10.1007/s12035-021-02392-z
+
+-   Ezi, S.**\***, **Eskandarian Boroujeni, M.\***, Khatmi, A., Vakili, K., Fathi, M., Abdollahifar, M.A., Aghajanpour, F., Soltani, R., Mirbehbahani, S.H., Khodagholi, F. and Aliaghaei, A., 2021. [Chronic Exposure to Tramadol Induces Neurodegeneration in the Cerebellum of Adult Male Rats](https://link.springer.com/article/10.1007/s12640-021-00354-w). *Neurotoxicity Research*, pp.1-14, DOI: 10.1007/s12640-021-00354-w **\*** Contributed equally to this work
+
+-   **Eskandarian Boroujeni, M**., Peirouvi, T., Shaerzadeh, F., Ahmadiani, A., Abdollahifar, M.A. and Aliaghaei, A., 2020. [Differential gene expression and stereological analyses of the cerebellum following methamphetamine exposure](https://onlinelibrary.wiley.com/doi/10.1111/adb.12707). *Addiction biology*, 25(1), p.e12707, DOI: 10.1111/adb.12707
+
+-   **Eskandarian Boroujeni, M.**, Aliaghaei, A., Maghsoudi, N. and Gardaneh, M., 2020. [Complementation of dopaminergic signaling by Pitx3--GDNF synergy induces dopamine secretion by multipotent Ntera2 cells](https://pubmed.ncbi.nlm.nih.gov/31310388/). *Journal of cellular biochemistry*, 121(1), pp.200-212. DOI: 10.1016/j.neulet.2019.134478
+
+-   Aghajanpour, F., **Eskandarian Boroujeni, M.**, Jahanian, A., Soltani, R., Ezi, S., Khatmi, A., Abdollahifar, M.A., Mirbehbahani, S.H., Toreyhi, H., Aliaghaei, A. and Amini, A., 2020. [Tramadol: a Potential Neurotoxic Agent Affecting Prefrontal Cortices in Adult Male Rats and PC-12 Cell Line](https://link.springer.com/article/10.1007/s12640-020-00214-z). *Neurotoxicity research*. DOI: 10.1007/s12640-020-00214-z
+
+-   Golsorkhdan, S.A.**\***, **Eskandarian Boroujeni, M.\***, Aliaghaei, A., Abdollahifar, M.A., Ramezanpour, A., Nejatbakhsh, R., Anarkooli, I.J., Barfi, E. and Fridoni, M.J., 2020. [Methamphetamine administration impairs behavior, memory and underlying signaling pathways in the hippocampus](https://linkinghub.elsevier.com/retrieve/pii/S0166-4328(19)31295-1). *Behavioural brain research*, 379, p.112300. DOI: 10.1016/j.bbr.2019.112300 **\*** Contributed equally to this work
+
+-   Aliaghaei, A.**\***, **Eskandarian Boroujeni, M.\***, Ahmadi, H., Bayat, A.H., Tavirani, M.R., Abdollahifar, M.A., Pooyafar, M.H. and Mansouri, V., 2019. [Dental pulp stem cell transplantation ameliorates motor function and prevents cerebellar atrophy in rat model of cerebellar ataxia](https://link.springer.com/article/10.1007/s00441-018-02980-x). *Cell and tissue research*, 376(2), pp.179-187., DOI: 10.1007/s00441-018-02980-x. **\*** Contributed equally to this work
+
+-   **Eskandarian Boroujeni, M**. and Gardaneh, M., 2018. [The superiority of sucrose cushion centrifugation to ultrafiltration and PEGylation in generating high-titer lentivirus particles and transducing stem cells with enhanced efficiency](https://pubmed.ncbi.nlm.nih.gov/29322302/). *Molecular biotechnology*, DOI: 10.1007/s12033-017-0044-5
+
+-   **Eskandarian Boroujeni, M.** and Gardaneh, M., 2017. [Umbilical cord: an unlimited source of cells differentiable towards dopaminergic neurons](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5558501/). *Neural regeneration research*, 2017; 12:1186-92, DOI: 10.4103/1673-5374.211201

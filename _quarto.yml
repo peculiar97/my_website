@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    background: primary
+    right:
+      - href: index.qmd
+        text: Home
+      - href: selectd_pub.qmd
+        text: Selected Publications 
+        
+  page-footer: " Powered by Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
