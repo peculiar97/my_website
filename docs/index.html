@@ -103,7 +103,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
   </div>
 </header><main class="content" id="quarto-document-content">
-<p>I am experienced in conducting biological experiments and utilizing computational techniques to analyze the data generated. My ability to bridge the gap between laboratory work and data analysis allows me to effectively draw meaningful conclusions from my research findings.</p>
+<p>I’m a molecular geneticist with a passion for unlocking the secrets of complex biological systems. With my skills in bioinformatics, I can seamlessly analyze and interpret massive data sets. Let’s discover the unknown together!</p>
 
 
 </main> 
@@ -118,6 +118,9 @@ ul.task-list li input[type="checkbox"] {
   </a>
   <a href="https://www.researchgate.net/profile/Mahdi-Eskandarian-Boroujeni" class="about-link">
      <span class="about-link-text">ResearchGate</span>
+  </a>
+  <a href="https://www.webofscience.com/wos/author/record/AAA-4383-2020" class="about-link">
+     <span class="about-link-text">Web of Science</span>
   </a>
   <a href="mailto:mahdesk@amu.edu.pl" class="about-link">
     <i class="bi bi-envelope"></i>
@@ -250,6 +253,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

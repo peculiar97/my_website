@@ -12,12 +12,14 @@ about:
       href: https://scholar.google.com/citations?hl=en&user=2rGcVjkAAAAJ&view_op=list_works&sortby=pubdate
     - text: ResearchGate
       href: https://www.researchgate.net/profile/Mahdi-Eskandarian-Boroujeni
+    - text: Web of Science
+      href: https://www.webofscience.com/wos/author/record/AAA-4383-2020 
     - icon: envelope
       text: Email
       href: mailto:mahdesk@amu.edu.pl
 ---
 
-I am experienced in conducting biological experiments and utilizing computational techniques to analyze the data generated. My ability to bridge the gap between laboratory work and data analysis allows me to effectively draw meaningful conclusions from my research findings.
+I'm a molecular geneticist with a passion for unlocking the secrets of complex biological systems. With my skills in bioinformatics, I can seamlessly analyze and interpret massive data sets. Let's discover the unknown together!
 
 
 
