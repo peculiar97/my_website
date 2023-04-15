@@ -9,8 +9,13 @@ website:
     right:
       - href: index.qmd
         text: Home
+        icon: house
+      - href: https://github.com/peculiar97
+        text: GitHub
+        icon: github
       - href: selectd_pub.qmd
         text: Selected Publications 
+        icon: journal
         
   page-footer: " Powered by Quarto"
 
