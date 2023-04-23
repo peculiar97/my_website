@@ -2,6 +2,10 @@
 title: ""
 toc: false
 ---
+# PrePrint
+
+- Sekrecka, A., Kluzek, K., Sekrecki, M., **Eskandarian Boroujeni, M.**, Hasani, S., Yamauchi, S., Sada, K., Wesoly, J., Bluyssen, H. (2023) [Time-dependent recruitment of GAF, ISGF3 and IRF1 complexes shapes IFNα and IFNγ activated transcriptional responses and explains mechanistic and functional  overlap](http://dx.doi.org/10.21203/rs.3.rs-2564985/v1).
+
 
 # Selected Publications
 
