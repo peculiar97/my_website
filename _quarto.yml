@@ -16,6 +16,9 @@ website:
       - href: selectd_pub.qmd
         text: Selected Publications 
         icon: journal
+      - href: https://www.instagram.com/araam_bsh/
+        text: My Gallery
+        icon: instagram
         
   page-footer: " Powered by Quarto"
 
