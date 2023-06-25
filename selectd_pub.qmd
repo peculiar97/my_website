@@ -2,12 +2,11 @@
 title: ""
 toc: false
 ---
-# PrePrint
-
-- Sekrecka, A., Kluzek, K., Sekrecki, M., **Eskandarian Boroujeni, M.**, Hasani, S., Yamauchi, S., Sada, K., Wesoly, J., Bluyssen, H. (2023) [Time-dependent recruitment of GAF, ISGF3 and IRF1 complexes shapes IFNα and IFNγ activated transcriptional responses and explains mechanistic and functional  overlap](http://dx.doi.org/10.21203/rs.3.rs-2564985/v1).
-
 
 # Selected Publications
+
+- Sekrecka, A., Kluzek, K., Sekrecki, M., **Eskandarian Boroujeni, M.**, Hasani, S., Yamauchi, S., Sada, K., Wesoly, J., Bluyssen, H. (2023) [Time-dependent recruitment of GAF, ISGF3 and IRF1 complexes shapes IFNα and IFNγ activated transcriptional responses and explains mechanistic and functional  overlap](https://pubmed.ncbi.nlm.nih.gov/37347298/). *Cellular and Molecular Life Sciences*,  80, 187, DOI: https://doi.org/10.1007/s00018-023-04830-8
+
 
 -   **Eskandarian Boroujeni, M.**, Sekrecka, A., Antonczyk, A., Hasani, S., Sekrecki M., Nowicka, H., Lopacinska, N., Olya, A., Kluzek, K., Wesoly, J. and Bluyssen HAR (2022) [Dysregulated Interferon Response and Immune Hyperactivation in Severe COVID-19: Targeting STATs as a Novel Therapeutic Strategy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9156796/). *Frontiers in Immunology*, 13:888897, DOI: 10.3389/fimmu.2022.888897
 
