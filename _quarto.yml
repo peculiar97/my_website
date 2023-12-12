@@ -10,6 +10,9 @@ website:
       - href: index.qmd
         text: Home
         icon: house
+      - href: Projects.qmd
+        text: Projects
+        icon: clipboard-data-fill
       - href: https://github.com/peculiar97
         text: GitHub
         icon: github
@@ -19,6 +22,7 @@ website:
       - href: https://www.instagram.com/araam_bsh/
         text: My Gallery
         icon: instagram
+      
         
   page-footer: " Powered by Quarto"
 

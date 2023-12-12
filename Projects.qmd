@@ -1,0 +1,83 @@
+---
+title: ""
+format:
+  html:
+    toc: true
+    toc-title: ""
+    css: styles.css
+---
+
+# My Scientific Odyssey
+
+### The Promise of Cell Replacement Therapy in Neurodegenerative Diseases
+
+::: {style="text-align: center;"}
+<img src="cell_therapy.jpeg" alt="Alt Text" width="300"/>
+:::
+
+-   **Exploring Diverse Cell Sources for Neurodegenerative Diseases**
+
+    -   NT2(Human teratocarcinoma cell line Ntera2) \[Parkinson's disease\] [Link](https://doi.org/10.1016/j.neulet.2019.134478)
+
+    -   Human olfactory ecto-mesenchymal stem cells \[Parkinson's disease\] [Link](https://doi.org/10.1021/acschemneuro.1c00225)
+
+    -   Wharton's jelly-derived Human mesenchymal stem cells \[Parkinson's disease\] [Link](https://doi.org/10.1016/j.jchemneu.2019.01.003)
+
+    -   Primary rat Sertoli cells
+
+        -   Huntington's disease [Link](https://doi.org/10.1007/s12031-018-1062-x)
+        -   Alzheimer's disease [Link](https://doi.org/10.1016/j.bbr.2019.03.030)
+
+    -   Human umbilical cord matrix stem cells \[Huntington's disease\] [Link](http://dx.doi.org/10.1007/s12640-018-9884-4)
+
+    -   Human dental pulp stem cell
+
+        -   Cerebellar ataxias [Link](https://doi.org/10.1007/s00441-018-02980-x)
+        -   Huntington's disease [Link](https://doi.org/10.1016/j.neures.2020.12.002)
+
+    -   Human chorionic mesenchymal stem cells
+
+        -   Parkinson's disease [Link](https://doi.org/10.1002/ar.24301)
+        -   Cerebellar ataxias [Link](https://doi.org/10.1007/s11011-020-00543-0)
+
+### My Journey Through the Brain on Drugs
+
+::: {style="text-align: center;"}
+<img src="drugs.jpeg" alt="Alt Text" width="300"/>
+:::
+
+-   **How Different Brain Regions Are Affected?**
+
+    -   Methamphetamine
+        -   Prefrontal cortex [Link](https://doi.org/10.1016/j.neulet.2019.134478)
+        -   Cerebellum [Link](https://doi.org/10.1111/adb.12707)
+        -   Dorsolateral prefrontal cortex [Link](https://doi.org/10.31661/gmj.v10i0.2016)
+        -   Striatum [Link](https://doi.org/10.1016/j.jchemneu.2020.101854)
+        -   Choroid plexus [Link](https://doi.org/10.1016/j.neulet.2021.136246)
+    -   Tramadol
+        -   Prefrontal cortex [Link](https://doi.org/10.1007/s12640-020-00214-z)
+        -   Cerebellum [Link](https://doi.org/10.1007/s12640-021-00354-w)
+        -   Hippocampus [Link](https://doi.org/10.1016/j.neulet.2021.136418)
+    -   Tetrahydrocannabinol
+        -   Hippocampus [Link](https://doi.org/10.1016/j.jchemneu.2021.101943)
+
+## The Power of Integration
+
+::: {style="text-align: center;"}
+<img src="integration.jpeg" alt="Alt Text" width="300"/>
+:::
+
+-   **Unraveling the Type-I Interferon Response using Omics Tools** [link](https://doi.org/10.1007/s00018-023-04830-8)
+
+## Neuro-Inflammatory Response in COVID-19 Patients: <u>Connecting the dots</u>
+
+::: {style="text-align: center;"}
+<img src="Covid.jpeg" alt="Alt Text" width="300"/>
+:::
+
+-   **Exploring The Impact of The COVID-19 Virus On Various Regions Of The Brain**
+
+    -   Cerebral cortex [Link](https://doi.org/10.1021/acschemneuro.1c00111)
+    -   Hippocampus [Link](https://doi.org/10.1007/s10495-022-01754-9)
+
+-   **Dysregulated Interferon (IFN) Responses & Immune Hyper-Activation in Severe COVID-19** [Link](https://doi.org/10.1007/s00018-023-04830-8)
