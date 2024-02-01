@@ -7,7 +7,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/mahdi-eskandarian-93a71639/
+      href: https://www.linkedin.com/in/mahdi-eskandarian-boroujeni-93a71639/
     - text: Google Scholar
       href: https://scholar.google.com/citations?hl=en&user=2rGcVjkAAAAJ&view_op=list_works&sortby=pubdate
     - text: ResearchGate
