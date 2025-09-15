@@ -18,7 +18,7 @@ about:
       href: https://orcid.org/0000-0002-1987-4563
     - icon: envelope
       text: Email
-      href: mailto:mahdesk@amu.edu.pl
+      href: mailto:M.EBOROUJENI@uky.edu
 ---
 
 I am a molecular geneticist passionate about unraveling the mysteries of complex biological systems. As a self‑taught bioinformatics specialist, I can seamlessly blend the worlds of biology and computational science to analyze and interpret massive data sets. Throughout my academic journey, I have explored diverse areas—from the complexities of the brain to the intricacies of blood vessels. My passion lies in **bridging the gap between molecular biology and computational analysis.**
